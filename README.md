@@ -22,6 +22,7 @@ This project demonstrates the design and configuration of a basic home network u
 - Connected coaxial cable from ISP to modem and TV via splitter.
 - Connected cable modem to the router’s internet port.
 - Linked both PCs to router’s LAN ports using Ethernet cables.
+  ![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/60aa1bf5c64355387ce5b1d1c27c948a5b2ff231/Connected%20Devices%20with%20Cables%20STEP%201.png)
 
 ### 2. Configure Router
 - Accessed the router GUI using the Office PC via DHCP.
