@@ -31,11 +31,23 @@ This project demonstrates the design and configuration of a basic home network u
   - **SSID:** `MyHome`
   - **Security Mode:** WPA2-Personal
   - **Passphrase:** `MyPassPhrase1!`
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/configure%20Router%20through%20GUI%20.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/changed%20the%20admin%20password%20.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Limited%20DHCP%20leases%20to%2010.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Enabled%202.4GHz%20Wireless%20.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Configure%20Passpharse%20Router.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Settings%20are%20successful.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Confirmation%20of%20Connectivity%20thru%20web%20browser%20on%20OFFICE%20PC%20.png)
+
 
 ### 3. Configure Clients
 - Connected the laptop wirelessly using the SSID and passphrase.
 - Verified DHCP-assigned IPs for all devices.
 - Tested connectivity to external site (`skillsforall.srv`).
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Connection%20to%20Router%20Succesful%20.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Browsing%20confirmation%20on%20Laptop.png)
+
+
 
 ---
 
@@ -45,6 +57,10 @@ This project demonstrates the design and configuration of a basic home network u
 | Office PC     | Wired (Ethernet) | ✅ DHCP (192.x) | ✅ Successful |
 | Bedroom PC    | Wired (Ethernet) | ✅ DHCP (192.x) | ✅ Successful |
 | Laptop        | Wireless (Wi-Fi) | ✅ DHCP (192.x) | ✅ Successful |
+
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Completion%20of%20Activity.png)
+![image alt](https://github.com/heis-cyb3rski/BUILD-A-HOME-NETWORK/blob/f685152ec2a1b457f0329b9c86c3847192d55613/Screenshot%202025-10-27%20143650.png)
+
 
 ---
 
